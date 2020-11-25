@@ -3,7 +3,7 @@
 # Usage
 
 ```bash
-recon.sh example.com
+subdomain.sh example.com
 ```
 
 # Installation
