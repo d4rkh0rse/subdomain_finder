@@ -1,7 +1,7 @@
 #!/bin/bash
 
 domain=$1
-resolvers="/root/tools/recon_auto/resolvers.txt"
+resolvers="/root/tools/subdomain_finder/resolvers.txt"
 #subfinder
 
 basic_enum(){
